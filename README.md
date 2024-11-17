@@ -1,2 +1,2 @@
-# Ts-Essentials-
+# Ts-Essentials
 Basics of TS
